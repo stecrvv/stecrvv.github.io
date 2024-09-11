@@ -100,7 +100,7 @@
 }
 .fan-icon {
     width: 100px; /* Ajuste o tamanho conforme necessário */
-    height: 100px; /* Ajuste o tamanho conforme necessário */
+    height: 150px; /* Ajuste o tamanho conforme necessário */
     background-image: url('../leque-icone.png'); /* Substitua pelo caminho correto da sua imagem */
     background-size: cover;
     background-position: center;
