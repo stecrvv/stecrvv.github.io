@@ -98,6 +98,15 @@
 .text-justify {
   text-align: justify;
 }
+.fan-icon {
+    width: 100px; /* Ajuste o tamanho conforme necessário */
+    height: 100px; /* Ajuste o tamanho conforme necessário */
+    background-image: url('../leque-icone.png'); /* Substitua pelo caminho correto da sua imagem */
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%; /* Isso deixará a imagem em formato circular */
+    display: inline-block;
+}
 
 body {
   margin: 0;
