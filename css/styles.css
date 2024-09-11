@@ -99,18 +99,6 @@
   text-align: justify;
 }
 
-.icone-circular {
-
-    width: 40px; /* define a largura para 40px */
-
-    height: 40px; /* define a altura para 40px */
-
-    border-radius: 50%; /* faz com que a imagem fique circular */
-
-    object-fit: cover; /* garante que a imagem se encaixe perfeitamente na área circular */
-
-}
-
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
